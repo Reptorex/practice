@@ -1,0 +1,3 @@
+for full directory : scp -r OPRATORS kashyap@192.168.200.139:~/
+for file : scp rop.c kashyap@192.168.200.139:~/
+
